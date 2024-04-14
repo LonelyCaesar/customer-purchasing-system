@@ -422,6 +422,26 @@ while True:
   Main_Menu()  #呼叫主選單畫面
 conn.close()
 ```
+#### 執行結果：
+### 1.	客戶管理系統
+![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/377ffc3e-0288-4820-8865-8155ab25c7d7)
+
+### 2.	產品管理系統
+![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/6255ad65-6a55-4569-b3bc-d7901279c4b8)
+
+### 3.	購買管理系統
+![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/bb8a55df-ee4f-4db0-8c70-85f97e561814)
+
+### 4.	查詢購買紀錄
+![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/5d652e46-16fe-4147-b28b-0a40feb64678)
+
+# 四、結論
+已經讓我們了解整個系統開發流程，並且也學會如何利用Python程式來連接SQL Server資料庫，進而開發出一套可以模擬多個客戶購買的系統，以便讓學者深入了解。
+
+# 五、參考資料
+圖解資料庫系統理論-使用SQL Server實作(李春雄老師)
+
+
 
 
 
