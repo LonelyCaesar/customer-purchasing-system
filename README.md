@@ -10,4 +10,5 @@
 # 二、相關文章
 開發模式採用「瀑布模式(Waterfall Model)」，又稱全功能模式(Fully Functional Approach)，是於1970年由溫斯頓·W·羅伊斯所提出。而瀑布模式就是一般所說的「系統發展生命週期(System Development Life Cycle, SDLC)」。由於此模式從圖形的外觀來看，各階段依序就像是的梯形瀑布順勢而下，稱為瀑布模式(Waterfall Model)。
 ![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/56a712f9-483a-4ab0-a030-719a1af44ca9)
+
 一個功能完整及有效率的資訊系統，它的幕後最大工程，就是資料庫系統之協助。因此，在設計資料庫時必須經過一連串有系統的規劃及設計。在開發資料庫系統時，首要的工作是先做資料庫的分析，在做資料庫分析工作時，需要先與使用者進行需求訪談的作業，藉著訪談的過程來了解使用者對資料庫的需求，以便讓系統設計者來設計企業所需要的資料庫。
