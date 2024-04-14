@@ -26,7 +26,7 @@
 ![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/bfdf0db3-4fac-40b5-a526-ada1293e7828)
 
 #### 程式碼：
-'''python
+```python
 import pyodbc
 import sys
 driver="{ODBC Driver 17 for SQL Server}"
@@ -421,7 +421,7 @@ def Main_Menu():
 while True:
   Main_Menu()  #呼叫主選單畫面
 conn.close()
-'''
+```
 
 
 
