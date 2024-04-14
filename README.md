@@ -9,3 +9,4 @@
 
 # 二、相關文章
 開發模式採用「瀑布模式(Waterfall Model)」，又稱全功能模式(Fully Functional Approach)，是於1970年由溫斯頓·W·羅伊斯所提出。而瀑布模式就是一般所說的「系統發展生命週期(System Development Life Cycle, SDLC)」。由於此模式從圖形的外觀來看，各階段依序就像是的梯形瀑布順勢而下，稱為瀑布模式(Waterfall Model)。
+![image](https://github.com/LonelyCaesar/customer-purchasing-system/assets/101235367/56a712f9-483a-4ab0-a030-719a1af44ca9)
